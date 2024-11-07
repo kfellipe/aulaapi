@@ -1,0 +1,57 @@
+[
+  {
+    "nome": "Curió",
+    "nome_cientifico": "Oryzoborus angolensis",
+    "descricao": "O curió é uma ave pequena e colorida, conhecida por seu canto melodioso. Habita áreas de cerrado, mas sua população está ameaçada devido à captura ilegal para o comércio de pássaros.",
+    "peso": 0.025,
+    "altura": 18,
+    "risco_extincao": "alto",
+    "dieta": "Granívoro",
+    "url_imagem": "https://example.com/curio.jpg",
+    "fonte": "https://www.icmbio.gov.br/portal/aves/curio"
+  },
+  {
+    "nome": "Ararinha-azul",
+    "nome_cientifico": "Cyanopsitta spixii",
+    "descricao": "A ararinha-azul é uma das aves mais emblemáticas do Cerrado, famosa pela sua plumagem azul vibrante. Está extinta na natureza devido à destruição de seu habitat e captura ilegal.",
+    "peso": 0.6,
+    "altura": 56,
+    "risco_extincao": "alto",
+    "dieta": "Frutívoro, sementes e nozes",
+    "url_imagem": "https://example.com/ararinha-azul.jpg",
+    "fonte": "https://www.icmbio.gov.br/portal/fauna/ararinha-azul"
+  },
+  {
+    "nome": "Papagaio-chorão",
+    "nome_cientifico": "Amazona pretrei",
+    "descricao": "O papagaio-chorão é uma espécie endêmica do Cerrado brasileiro, que está ameaçada pela destruição de seu habitat e caça. Sua plumagem verde e comportamento social chamam a atenção.",
+    "peso": 0.3,
+    "altura": 35,
+    "risco_extincao": "médio",
+    "dieta": "Frutas, sementes e flores",
+    "url_imagem": "https://example.com/papagaio-chorão.jpg",
+    "fonte": "https://www.icmbio.gov.br/portal/fauna/papagaio-chorão"
+  },
+  {
+    "nome": "Tucano-de-bico-preto",
+    "nome_cientifico": "Ramphastos vitellinus",
+    "descricao": "O tucano-de-bico-preto é uma ave de grande porte do Cerrado, com bico largo e colorido. Sua população vem diminuindo devido à degradação do Cerrado e à caça.",
+    "peso": 0.6,
+    "altura": 55,
+    "risco_extincao": "médio",
+    "dieta": "Frutas, insetos e pequenos vertebrados",
+    "url_imagem": "https://example.com/tucano-bico-preto.jpg",
+    "fonte": "https://www.icmbio.gov.br/portal/fauna/tucano-de-bico-preto"
+  },
+  {
+    "nome": "Saíra-de-encontro-amarelo",
+    "nome_cientifico": "Chlorophanes spiza",
+    "descricao": "A saíra-de-encontro-amarelo é uma pequena ave do Cerrado, com plumagem vibrante. Está em risco devido à perda de habitat e fragmentação das florestas do Cerrado.",
+    "peso": 0.02,
+    "altura": 15,
+    "risco_extincao": "alto",
+    "dieta": "Frutas, sementes e néctar",
+    "url_imagem": "https://example.com/saira-encontro-amarelo.jpg",
+    "fonte": "https://www.icmbio.gov.br/portal/fauna/saira-de-encontro-amarelo"
+  }
+]
